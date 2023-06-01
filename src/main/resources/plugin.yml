@@ -1,4 +1,0 @@
-name: TsunamiDCKit
-version: '${project.version}'
-main: git.tsunami047.tsunamidckit.TsunamiDCKit
-authors: [ Tsunami047 ]
